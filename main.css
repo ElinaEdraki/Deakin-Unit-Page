@@ -15,20 +15,7 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-<<<<<<< HEAD
 div {
   background-color: darkcyan;
   text-align: right;
 }
-=======
-
-th, td {
-padding: 8px;
-text-align: left;
-border-bottom: 1px solid #ddd;
-font-family: Arial
-}
-tr:nth-child(odd) {background-color: #f2f2f2;}
-
-
->>>>>>> ebe6d27588f566a667c0707794dc5ae2d5ea1ae0
